@@ -1,0 +1,22 @@
+{
+  "name": "npmtest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/siwenyu/npm-test.git"
+  },
+  "keywords": [
+    "npm-test"
+  ],
+  "author": "siwenyu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/siwenyu/npm-test/issues"
+  },
+  "homepage": "https://github.com/siwenyu/npm-test#readme"
+}
